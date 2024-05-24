@@ -1,3 +1,0 @@
-arch: "p100_linear"
-r: 45
-d: 1.0e-4
