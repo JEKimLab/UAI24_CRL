@@ -1,0 +1,4 @@
+num_classes: 23
+# 'minc-2500'
+relative_path: 'minc64'
+group: null

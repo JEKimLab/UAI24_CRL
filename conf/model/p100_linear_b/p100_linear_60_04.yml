@@ -1,0 +1,3 @@
+arch: "p100_linear"
+r: 60
+d: 1.0e-4

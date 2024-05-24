@@ -1,0 +1,2 @@
+arch: "mobilenetv3_large"
+width_mult: 1.0

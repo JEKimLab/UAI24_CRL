@@ -1,0 +1,4 @@
+words_dim: 50
+word_num_hidden: 50
+sentence_num_hidden: 50
+pretrained_word2vec_path: 'glove/glove.6B.50d.txt'

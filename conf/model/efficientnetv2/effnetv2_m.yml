@@ -1,0 +1,2 @@
+arch: "effnetv2_m"
+width_mult: 1.0

@@ -1,0 +1,3 @@
+arch: "resnet18"
+r: 150
+d: 1

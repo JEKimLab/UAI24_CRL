@@ -1,0 +1,3 @@
+num_classes: 200
+relative_path: 'tiny-imagenet-200'
+group: "null"

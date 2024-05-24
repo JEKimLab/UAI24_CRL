@@ -1,0 +1,22 @@
+# Optimizer
+momentum: 0.9
+weight_decay: 0.0005
+# Epochs
+start_epoch: 0
+epoch: 120
+mile_stone:
+  - epoch_start: 0
+    epoch_end: 50
+    learning_rate: 0.05
+  -
+    epoch_start: 50
+    epoch_end: 80
+    learning_rate: 0.01
+  -
+    epoch_start: 80
+    epoch_end: 110
+    learning_rate: 0.005
+  -
+    epoch_start: 100
+    epoch_end: 120
+    learning_rate: 0.001
