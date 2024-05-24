@@ -50,7 +50,7 @@ Datasets include CIFAR-10, CIFAR-100, and SVHN.
 When testing, you can write your own evaluation codes or use `summary_acc_parameter.py`
 
 ## Acknowledge
-Some important codes are derived from:
+Some portion of codes are derived from:
 - [RelaxLoss](https://github.com/DingfanChen/RelaxLoss)
 ## Other References
 - [Distillation for Membership Privacy (DMP)](https://github.com/vrt1shjwlkr/AAAI21-MIA-Defense/blob/master/purchase/purchase_distillation.py#L60)
