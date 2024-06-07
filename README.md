@@ -62,6 +62,7 @@ fang2024crl,
 title={Center-Based Relaxed Learning Against Membership Inference Attacks},
 author={Xingli Fang and Jung-Eun Kim},
 booktitle={The 40th Conference on Uncertainty in Artificial Intelligence},
-year={2024}
+year={2024},
+url={https://openreview.net/forum?id=unlWrunFjg}
 }
 ```
